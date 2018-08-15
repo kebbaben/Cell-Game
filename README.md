@@ -1,15 +1,20 @@
 # Cell-Game
 
-### Controls
-#### Move – Keyboard
+
+### Controller
+#### Move
+  - Both players: Left joystick (should work on all controllers compatible with Windows)
+
+### Keyboard
+#### Move
   - Player 1: WASD
   - Player 2: Arrow keys
 
-#### Move – Controller
-  - Both players: Left joystick (should work on all controllers compatible on Windows)
-
-#### Respawn – Keyboard
+#### Respawn
   - Both players: R
 
-#### Restart - Keyboard
+#### Restart
   - F1
+
+#### Quit
+ - Escape
